@@ -1,0 +1,6 @@
+kaggle
+numpy
+pandas
+scipy
+matplotlib
+geopandas
