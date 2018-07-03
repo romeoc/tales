@@ -8,3 +8,4 @@ pysal
 nltk
 wordcloud
 seaborn
+pyspark
