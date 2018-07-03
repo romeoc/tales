@@ -5,3 +5,6 @@ scipy
 matplotlib
 geopandas
 pysal
+nltk
+wordcloud
+seaborn
