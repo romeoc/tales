@@ -2,6 +2,8 @@ kaggle
 numpy
 pandas
 scipy
+sklearn
+surprise
 matplotlib
 geopandas
 pysal
